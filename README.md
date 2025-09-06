@@ -6,6 +6,7 @@ This dashboard provides actionable insights to improve employee retention, optim
 
 
 🚀 Key Features
+
 📈 Employee Attrition Analysis – Understand resignation patterns across roles, departments, and age groups.
 
 🧠 Performance Insights – Evaluate employee ratings and identify top performers.
