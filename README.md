@@ -7,10 +7,15 @@ This dashboard provides actionable insights to improve employee retention, optim
 
 🚀 Key Features
 📈 Employee Attrition Analysis – Understand resignation patterns across roles, departments, and age groups.
+
 🧠 Performance Insights – Evaluate employee ratings and identify top performers.
+
 🏢 Department-Wise Trends – Visualize hiring, attrition, and promotion data per department.
+
 ⏳ Tenure Impact – Assess how experience influences retention and satisfaction.
+
 🎯 Gender & Diversity Analytics – Track representation and balance within the workforce.
+
 🛠️ Interactive Filters – Slice and dice data by department, education, gender, and more.
 
 📂 Data Sources
